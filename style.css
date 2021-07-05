@@ -1,0 +1,38 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+}
+.orange{
+    color: orange;
+}
+.button{
+    text-decoration: none;
+    font-weight: 900;
+    background-image: linear-gradient(blue, cyan);
+    color: white;
+    padding: 10px 40px;
+    border-radius: 40px;
+}
+h1{
+    font-size: 50px;
+    font-weight: 900;
+}
+.top{
+    display: flex;
+    margin-bottom: 100px;
+}
+.divition{
+    width: 50%;
+    padding-left: 7%;
+    padding-right: 7%;
+}
+.divition img{
+    width: 100%;
+}
+.middle{
+    display: flex;
+    margin-bottom:100px;
+    background-image: url(images/frame.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
