@@ -16,6 +16,12 @@ body{
 h1{
     font-size: 50px;
     font-weight: 900;
+    color: gray;
+}
+h2{
+    font-size: 30px;
+    font-weight: 900;
+    color: gray;
 }
 .top{
     display: flex;
@@ -35,4 +41,30 @@ h1{
     background-image: url(images/frame.jpg);
     background-repeat: no-repeat;
     background-size: cover;
+}
+.mid-text{
+    padding: 10%;
+}
+
+.middle-bottom{
+    text-align: center;
+    margin-left: 25%;
+    margin-right: 25%;
+    margin-bottom: 100px;
+    margin-bottom: 100px;
+}
+.bottom-group{
+    display: flex;
+    margin-bottom:100px;
+}
+.shadow{
+    box-shadow: 10px 10px 40px gray;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding: 2%;
+    border-radius: 30px;
+    width: 22%;
+}
+.shadow img{
+    width: 100%;
 }
