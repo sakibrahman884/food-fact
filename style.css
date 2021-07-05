@@ -68,3 +68,19 @@ h2{
 .shadow img{
     width: 100%;
 }
+.under{
+    width: 100%;
+    text-align: center;
+}
+.ground{
+    display: flex;
+    margin-bottom: 100px;
+    box-shadow: 10px 10px 40px gray;
+    margin-left: 10%;
+    margin-right: 10%;
+    padding-left: 10%;
+    padding-right: 10%;
+    border-radius: 30px;
+    width: 60%
+}
+
